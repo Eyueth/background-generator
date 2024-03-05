@@ -1,0 +1,22 @@
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    background: linear-gradient(to right ,red ,yellow);
+    align-items: center;
+}
+
+h1{
+  font-size: 100px;
+  font-stretch: 20px;
+}
+
+
+.round {
+  height: 40px;
+  border-radius: 35px;
+  background-color: transparent;
+  border: none;
+
+}
